@@ -34,7 +34,7 @@ This project leverages **PhoBERT** with the **UIT-VSFC** dataset to classify sen
 
 ### Data Preparation
 
-1. Download the **UIT-VSFC** dataset (requires authorization) and place it in the `data` folder.
+Download the **UIT-VSFC** dataset in .
 
 ### Model Training
 
@@ -59,7 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🤝 Acknowledgments
 
 - **PhoBERT**: [PhoBERT on Hugging Face](https://huggingface.co/transformers/)
-- **UIT-VSFC Dataset**: [UIT-VSFC Sentiment Dataset](https://aclanthology.org/2020.aacl-main.5/)
+- **UIT-VSFC Dataset**: [UIT-VSFC Sentiment Dataset](https://huggingface.co/datasets/uitnlp/vietnamese_students_feedback)
 
 <div align="center">
 
